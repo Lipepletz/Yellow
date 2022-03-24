@@ -3,7 +3,7 @@
 This is Klauz, ur one and only.
 I'm here to show u that:
 
-1. anyone can make pull requests for ur public repository
+1. anyone invited to this repo can make pull requests within it
 2. that this is a pull request, and it's a nice way for devs to work
 
 Why? because here u can review evry mytak i mak and suggest changes!
