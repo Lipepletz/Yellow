@@ -10,3 +10,7 @@ Why? because here u can review evry mytak i mak and suggest changes!
 Once u do that i'll be pingated. and you will be waiting for my update.
 
 As i correct the PR, u'll be notified, and once it's ready you can merge it and approve! Yay!
+
+So basically is an Abstract for code.
+Me Gusta
+<3
